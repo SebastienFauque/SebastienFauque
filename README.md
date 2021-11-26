@@ -1,5 +1,21 @@
 ### Hi there, welcome to my GitHub page 👋
 
+<img type="content" src="images/SanFranTech.jpeg" alt-text="Banner"/>
+
+<p>I'm Sebastien, a software engineer based in San Francisco, California currently working at Gimbap making open source
+software for companies looking to transition their monolitihic applications into cloud based microservice applications </p>
+
+&nbsp
+
+⚡ Programming languages I've used ⚡
+
+<div float="left">
+  <img type="content" height="50" src="images/typescript.svg" alt-text="JavaScript"/>
+</div>
+
+&nbsp
+
+
 <!--
 **SebastienFauque/SebastienFauque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
