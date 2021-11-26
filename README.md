@@ -1,6 +1,6 @@
 ### Hi there, welcome to my GitHub page 👋
 
-<img type="content" src="images/SanFranTech.jpeg" alt-text="Banner"/>
+<img type="content" src="images/GitHubBanner.png" alt-text="Banner"/>
 
 <p>I'm Sebastien, a software engineer based in San Francisco, California currently working at Gimbap making open source
 software for companies looking to transition their monolitihic applications into cloud based microservice applications </p>
