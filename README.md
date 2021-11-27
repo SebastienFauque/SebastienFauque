@@ -4,6 +4,15 @@
 software for companies looking to transition their monolitihic applications into cloud based microservice applications </p>
 
 
+<div float="left">
+  <a href="https://github.com/ericcchiu/ericcchiu">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SebastienFauque&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Eric's GitHub Stats" />
+  </a>
+  <a href="https://github.com/ericcchiu/ericcchiu">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienfauque&hide=moustache&langs_count=10&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+</div>
+
 
 ⚡ Programming languages I've used ⚡
 
@@ -16,8 +25,8 @@ software for companies looking to transition their monolitihic applications into
 :books: Databases I've used :books:
 
 <div float="left">
-  <img type="content" height="50" src="images/postgresqlLogo.svg" alt-text="PostgreSQL"/>
-  <img type="content" height="50" src="images/mongodbLogo.svg" alt-text="MongoDB"/>
+  <img align="center" type="content" height="50" src="images/postgresqlLogo.svg" alt-text="PostgreSQL"/>
+  <img align="center" type="content" height="50" src="images/mongodbLogo.svg" alt-text="MongoDB"/>
 </div>
 
 
