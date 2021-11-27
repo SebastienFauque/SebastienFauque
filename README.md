@@ -5,10 +5,10 @@ software for companies looking to transition their monolitihic applications into
 
 
 <div float="right">
-  <a href="https://github.com/ericcchiu/ericcchiu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SebastienFauque&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Eric's GitHub Stats" />
+  <a href="https://github.com/sebastienfauque/sebastienfauque">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastienfauque&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Eric's GitHub Stats" />
   </a>
-  <a href="https://github.com/ericcchiu/ericcchiu">
+  <a href="https://github.com/sebastienfauque/sebastienfauque">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienfauque&hide=moustache&langs_count=10&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
 </div>
@@ -19,7 +19,7 @@ software for companies looking to transition their monolitihic applications into
 <div float="center">
   <img type="content" height="50" src="images/typescriptLogo.svg" alt-text="Typescript"/>
   <img type="content" height="50" src="images/javascriptLogo.svg" alt-text="JavaScript"/>
-  <img type="content" height="50" src="images/pythonLogo.svg" alt-text="python"/>
+  <img type="content" height="50" margin="-20px 0 0 -20px" src="images/pythonLogo.svg" alt-text="python"/>
 </div>
 
 :books: Databases I've used :books:
