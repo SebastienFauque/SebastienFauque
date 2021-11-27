@@ -13,15 +13,17 @@ software for companies looking to transition their monolitihic applications into
   </a>
 </div>
 
+<br/>
 
 ⚡ Programming languages I've used ⚡
 
-<div float="center" margin-left="auto" margin-right="auto">
+<div margin-left="auto" margin-right="auto">
   <img type="content" height="50" src="images/typescriptLogo.svg" alt-text="Typescript"/>
   <img type="content" height="50" src="images/javascriptLogo.svg" alt-text="JavaScript"/>
-  <img type="content" height="50" src="images/pythonLogo.svg" alt-text="Python"/>
+  <img type="content" height="45" src="images/pythonLogo.svg" alt-text="Python"/>
 </div>
 
+<br/>
 :books: Databases I've used :books:
 
 <div float="left" margin-left="auto" margin-right="auto">
