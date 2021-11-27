@@ -4,7 +4,7 @@
 software for companies looking to transition their monolitihic applications into cloud based microservice applications </p>
 
 
-<div float="center">
+<div float="right">
   <a href="https://github.com/ericcchiu/ericcchiu">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=SebastienFauque&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Eric's GitHub Stats" />
   </a>
@@ -16,7 +16,7 @@ software for companies looking to transition their monolitihic applications into
 
 ⚡ Programming languages I've used ⚡
 
-<div float="left">
+<div float="center">
   <img type="content" height="50" src="images/typescriptLogo.svg" alt-text="Typescript"/>
   <img type="content" height="50" src="images/javascriptLogo.svg" alt-text="JavaScript"/>
   <img type="content" height="50" src="images/pythonLogo.svg" alt-text="python"/>
