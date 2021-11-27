@@ -19,14 +19,14 @@ software for companies looking to transition their monolitihic applications into
 <div float="center">
   <img type="content" height="50" src="images/typescriptLogo.svg" alt-text="Typescript"/>
   <img type="content" height="50" src="images/javascriptLogo.svg" alt-text="JavaScript"/>
-  <img type="content" height="50" background-size="cover" src="images/pythonLogo.svg" alt-text="python"/>
+  <img type="content" height="50" src="images/pythonLogo.svg" alt-text="python"/>
 </div>
 
 :books: Databases I've used :books:
 
 <div float="left">
   <img align="center" type="content" height="50" src="images/postgresqlLogo.svg" alt-text="PostgreSQL"/>
-  <img align="center" type="content" height="50" src="images/mongodbLogo.svg" alt-text="MongoDB"/>
+  <img align="center" type="content" height="40" src="images/mongodbLogo.svg" alt-text="MongoDB"/>
 </div>
 
 
