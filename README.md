@@ -12,14 +12,14 @@ software for companies looking to transition their monolitihic applications into
 <div float="left">
   <img type="content" height="50" src="images/typescriptLogo.svg" alt-text="Typescript"/>
   <img type="content" height="50" src="images/javascriptLogo.svg" alt-text="JavaScript"/>
-  <img type="content" height="50" src="images/pythonLogo.svg" alt-text="python"/>
+  <img type="content" height="100" src="images/pythonLogo.svg" alt-text="python"/>
 </div>
 
 :database: Databases I've used :database:
 
 <div float="left">
   <img type="content" height="50" src="images/postgresqlLogo.svg" alt-text="PostgreSQL"/>
-  <img type="content" height="50" src="images/mongodbLogo.svg" alt-text="MongoDB"/>
+  <img type="content" height="30" src="images/mongodbLogo.svg" alt-text="MongoDB"/>
 </div>
 
 
