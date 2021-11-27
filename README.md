@@ -19,7 +19,7 @@ software for companies looking to transition their monolitihic applications into
 <div float="center">
   <img type="content" height="50" src="images/typescriptLogo.svg" alt-text="Typescript"/>
   <img type="content" height="50" src="images/javascriptLogo.svg" alt-text="JavaScript"/>
-  <img type="content" height="50" margin="-100px 0 0 -100px" src="images/pythonLogo.svg" alt-text="python"/>
+  <img type="content" height="50" background-size="cover" src="images/pythonLogo.svg" alt-text="python"/>
 </div>
 
 :books: Databases I've used :books:
