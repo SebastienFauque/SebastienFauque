@@ -3,6 +3,8 @@
 <p margin-left="auto" margin-right="auto">I'm Sebastien, a software engineer based in San Francisco, California currently working at Gimbap making open source
 software for companies looking to transition their monolitihic applications into cloud based microservice applications </p>
 
+<p margin-left="auto" margin-right="auto">I'm currently working on the following coding challenge: \n
+  Advent of Code 2021 </p>
 
 <div float="right" margin-left="auto" margin-right="auto">
   <a href="https://github.com/sebastienfauque/sebastienfauque">
