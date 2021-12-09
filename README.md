@@ -17,7 +17,7 @@ software for companies looking to transition their monolitihic applications into
 
 <br/>
 
-⚡ Programming languages I've used ⚡
+⚡ Programming languages I'm currently using ⚡
 
 <div margin-left="auto" margin-right="auto">
   <img type="content" height="50" src="images/typescriptLogo.svg" alt-text="Typescript"/>
@@ -33,6 +33,15 @@ software for companies looking to transition their monolitihic applications into
   <img align="center" type="content" height="40" src="images/mongodbLogo.svg" alt-text="MongoDB"/>
 </div>
 
+<br/>
+Frameworks I've Used
+(compiling in progress)
+
+<br/>
+Libraries I've used
+(compiling in progress)
+- React
+- 
 
 <!--
 **SebastienFauque/SebastienFauque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
