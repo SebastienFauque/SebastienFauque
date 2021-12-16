@@ -4,7 +4,7 @@
 software for companies looking to transition their monolitihic applications into cloud based microservice applications </p>
 
 <p margin-left="auto" margin-right="auto">I'm currently working on the following coding challenge(s): </p>
-  <p>🎄🎄 Advent of Code 2021 : I have 7 stars🎄🎄</p>
+  <p>🎄🎄 Current programming challenge: Advent of Code 2021🎄🎄</p>
 
 <div float="right" margin-left="auto" margin-right="auto">
   <a href="https://github.com/sebastienfauque/sebastienfauque">
