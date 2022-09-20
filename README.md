@@ -1,10 +1,7 @@
 <img type="content" margin-left="auto" margin-right="auto" src="images/GitHubBanner.png" alt-text="Banner"/>
 
-<p margin-left="auto" margin-right="auto">I'm Sebastien, a software engineer based in San Francisco, California currently working at Gimbap making open source
+<p margin-left="auto" margin-right="auto">I'm Sebastien, a software engineer based in San Francisco, California currently working at Picarro making web and desktop applications for atmospheric science and semiconductor manufactoring applications. Previously I worked on Gimbap, an open source developer tool. 
 software for companies looking to transition their monolitihic applications into cloud based microservice applications </p>
-
-<p margin-left="auto" margin-right="auto">I'm currently working on the following coding challenge(s): </p>
-  <p>🎄🎄 Current programming challenge: Advent of Code 2021🎄🎄</p>
 
 <div float="right" margin-left="auto" margin-right="auto">
   <a href="https://github.com/sebastienfauque/sebastienfauque">
@@ -21,8 +18,11 @@ software for companies looking to transition their monolitihic applications into
 
 <div margin-left="auto" margin-right="auto">
   <img type="content" height="50" src="images/typescriptLogo.svg" alt-text="Typescript"/>
+  <a> 4 years </a>
   <img type="content" height="50" src="images/javascriptLogo.svg" alt-text="JavaScript"/>
+  <a> 4 years </a>
   <img type="content" height="45" src="images/pythonLogo.svg" alt-text="Python"/>
+  <a> 6 years </a>
 </div>
 
 <br/>
@@ -34,14 +34,25 @@ software for companies looking to transition their monolitihic applications into
 </div>
 
 <br/>
-Frameworks I've Used
-(compiling in progress)
+Backend Tech:
+Node.js
+Pandas.py
+FastAPI.py
+Flask.py
+NumPy
+SciPy
+
 
 <br/>
-Libraries I've used
-(compiling in progress)
-- React
-- 
+Frontend Tech:
+React
+Redux
+HTML
+CSS
+PyQT
+Plotly (JS and Py)
+Chart.js
+d3.js
 
 <!--
 **SebastienFauque/SebastienFauque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
