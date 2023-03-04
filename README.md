@@ -1,7 +1,6 @@
 <img type="content" margin-left="auto" margin-right="auto" src="images/GitHubBanner.png" alt-text="Banner"/>
 
-<p margin-left="auto" margin-right="auto">I'm Sebastien, a software engineer based in San Francisco, California currently working at Picarro making web and desktop applications for atmospheric science and semiconductor manufactoring applications. Previously I worked on Gimbap, an open source developer tool. 
-software for companies looking to transition their monolitihic applications into cloud based microservice applications </p>
+<p margin-left="auto" margin-right="auto">I'm Sebastien, a software engineer currently working at Picarro making web and desktop applications for green technology. Previously I worked on Gimbap, an open source developer software tool for companies looking to transition their monolitihic applications into cloud based microservice applications. I've also spent time building backend logic for for some of Earth Science's most challenging geological questions! </p>
 
 <div float="right" margin-left="auto" margin-right="auto">
   <a href="https://github.com/sebastienfauque/sebastienfauque">
@@ -18,11 +17,11 @@ software for companies looking to transition their monolitihic applications into
 
 <div margin-left="auto" margin-right="auto">
   <img type="content" height="50" src="images/typescriptLogo.svg" alt-text="Typescript"/>
-  <a> 4 years </a>
+  <a> 5 years </a>
   <img type="content" height="50" src="images/javascriptLogo.svg" alt-text="JavaScript"/>
-  <a> 4 years </a>
+  <a> 5 years </a>
   <img type="content" height="45" src="images/pythonLogo.svg" alt-text="Python"/>
-  <a> 6 years </a>
+  <a> 7 years </a>
 </div>
 
 <br/>
@@ -47,6 +46,7 @@ SciPy
 Frontend Tech:
 React
 Redux
+Next.js
 HTML
 CSS
 PyQT
