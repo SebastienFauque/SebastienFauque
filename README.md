@@ -30,6 +30,7 @@
 <div float="left" margin-left="auto" margin-right="auto">
   <img align="center" type="content" height="50" src="images/postgresqlLogo.svg" alt-text="PostgreSQL"/>
   <img align="center" type="content" height="40" src="images/mongodbLogo.svg" alt-text="MongoDB"/>
+  <img align="center" type="content" height="40" src="images/SQLiteLogo.svg" alt-text="SQLite-database"/>
 </div>
 
 <br/>
