@@ -1,5 +1,5 @@
 <h3 align=center>
-Hi, I'm Sebastien and I'm a Full Stack Software Engineer currently working in React with TypeScript and FastAPI with Python.
+Hi, I'm Sebastien and I'm a Full Stack Software Engineer.
 </h3>
 
 <div align=center>
