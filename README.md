@@ -2,7 +2,7 @@
 Hi, I'm Sebastien.
 </h3>
 
-<p>I was introducted to Python programming in graduate school to solve intricate biostatistics problems. This initial spark ignited a passion for coding, leading me to pursue a self-taught journey into software engineering. As my enthusiasm grew, I bolstered my expertise by enrolling in night classes which helped me fill gaps in my knowledge and develop new software development skills. </p>
+<p>I was introducted to Python programming in graduate school to solve intricate biostatistics problems. This initial spark ignited a passion for coding, leading me to pursue a self-taught journey into software engineering. As my enthusiasm grew, I bolstered my expertise by enrolling in night classes which helped fill gaps in my knowledge and develop new software development skills. </p>
 
 <div align=center>
 <table border="0">
